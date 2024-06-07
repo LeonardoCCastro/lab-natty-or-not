@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Música: Cristiano Ronaldo cantando Seu Jorge 🎙️
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Amiga Da Minha Mulher, um clássico de Seu Jorge agora cantado pelo Cristiano Ronaldo
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[Vocal Remover](https://vocalremover.org)** para remoção do áudio cantado original da música;
+- IA Generativa **[Easy GUI v2]([https://www.elevenlabs.io](https://colab.research.google.com/drive/1Gj6UTf2gicndUW_tVheVhTXIIYpFTYc7?usp=sharing))** para clonagem de voz;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+"Vocal Remover" foi utilizado para pegar somente a voz original do Seu Jorge e retirá-la da música, ficando assim apenas o vocal para podermos trabalhar sobre ela. 
+"Easy GUI v2" a partir de alguns takes de áudio do jogador Cristiano Ronaldo, essa IA conseguiu gerar um arquivo de áudio que substitui a voz do cantor Seu Jorge pela do jogador.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Como resultado temos um áudio divertido e inusitado de se escutar, duas figuras que nunca se encontraram na realidade graças ao poder das IA's se uniram para dar vida a um resultado único.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+LINK PARA A MÚSICA: https://drive.google.com/file/d/1DwXoeLGXxkMpgRjPxWRM3nmuGXZANZWX/view?usp=drive_link
